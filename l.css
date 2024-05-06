@@ -1,5 +1,13 @@
+.border{
+    border: 10px solid rgb(0, 0, 0);
+    margin: 100px;
+    text-align:center;
+    padding: 20px;
+    background-color: wheat;
+}
 body{
     background-image: url(imb/hg.avif);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
 }
